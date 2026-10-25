@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Map/MoonMap.umap",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/MP_MediaPlayer_Video_Mat.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/MP_MediaPlayer.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/MI_Shot_1.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/Materials/MI_Shot_1.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/MI_Skybox.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/SkyboxMat.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/LS_Anim.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/alienmeet.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/MP_AlienMeet.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/MP_AlienMeet_Video.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/Playlists/PL_MediaPlayer.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/Playlists/PL_AlienMeet.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/MP_Test2.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/MI_AlienMeet.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/BP_VidPlane_Blueprint.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/BP_VidPlane.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/Playlists/NewMediaPlaylist.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/MP_AlienMeet_Video_Mat.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/exrtest.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/MovTest.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Sequences/Alien_WalkCycle.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/LS_Shot21.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/LS_Shot23.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/LS_Shot27.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/LS_Shot18.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Alien/EditorMoviePipelineQueue.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Alien/myPreset4Rendering.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/LS_Shot25.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/LS_SubsequenceTest.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/shot_2.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/Materials/MI_AlienMeet.uasset",
+				"C:/Users/Anthony/Documents/GitHub/MoonProjectFiles/Moon 5.8/Content/Movies/Materials/MP_MediaPlayer_Video_Mat.uasset"
+			]
+		}
+	]
+}
