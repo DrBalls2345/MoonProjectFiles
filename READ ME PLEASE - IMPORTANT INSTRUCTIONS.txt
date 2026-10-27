@@ -1,0 +1,5 @@
+I can't get GitHub to commit and push all the project's EXR files in an effective way, so I've resolved to just dump them all into a Zip file on my drive.
+
+When setting up the project on your machine, please download and unzip the files from the provided google drive link and assign each image sequence to their corresponding media plate in the main level.
+
+Drive link: https://drive.google.com/file/d/14yKEjxClVVPbUB42NQlknOC6FaXa7GHY/view?usp=sharing
