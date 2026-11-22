@@ -1,0 +1,100 @@
+[15088:19732:1117/160736.226:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15088:20140:1117/160736.500:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15088:19732:1117/160736.652:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20260:1776:1117/160738.999:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-374731C527890B28083DA262FA8813FA will be ignored
+[20228:17236:1117/160826.249:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[15088:7452:1117/160826.258:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,11]
+[15088:19732:1117/160826.312:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,11]
+[15088:19732:1117/160826.312:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,11]
+[15088:19732:1117/160826.312:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,11]
+[15088:19732:1117/160826.312:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,11]
+[15088:19732:1117/160826.314:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,14]
+[15088:19732:1117/160826.314:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,14]
+[15088:19732:1117/160826.314:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,14]
+[15088:19732:1117/160826.314:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,14]
+[20228:17556:1117/160826.467:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[20228:17236:1117/160827.041:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[20228:17040:1117/160827.074:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(95,23-33): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value
+C:\fakepath(96,23-33): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value
+
+[20228:3892:1117/160827.216:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[15088:19732:1117/160827.668:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[15088:19732:1117/160827.668:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[8952:18696:1117/162542.570:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-F02833D0878E03DE162822D758C8675D will be ignored
+[15088:7452:1117/162604.889:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[15088:19732:1117/162604.970:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[15088:19732:1117/162604.970:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[15088:19732:1117/162604.971:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[15088:19732:1117/162604.971:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[15088:19732:1117/162604.972:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,12]
+[15088:19732:1117/162604.973:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,12]
+[15088:19732:1117/162604.973:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,12]
+[15088:19732:1117/162604.973:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,12]
+[15088:19732:1117/162605.404:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[15088:19732:1117/162605.404:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[15088:19732:1117/162627.586:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[15088:19732:1117/162627.586:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[8688:21328:1117/162628.221:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 11-804EF7C5B09AD7E5B8B6A2D6194C5164 will be ignored
+[15088:7452:1117/162630.285:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,20]
+[15088:19732:1117/162630.311:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,20]
+[15088:19732:1117/162630.311:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,20]
+[15088:19732:1117/162630.311:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,20]
+[15088:19732:1117/162630.311:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,20]
+[15088:19732:1117/162630.313:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,23]
+[15088:19732:1117/162630.313:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,23]
+[15088:19732:1117/162630.313:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,23]
+[15088:19732:1117/162630.313:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,23]
+[15088:19732:1117/162630.923:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[15088:19732:1117/162630.923:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[20228:17556:1117/162631.490:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[8848:3188:1117/162659.112:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 13-16BE0FC85BD17F0E8F8DB90C1593D634 will be ignored
+[15088:7452:1117/162701.081:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,29]
+[15088:19732:1117/162701.094:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,29]
+[15088:19732:1117/162701.095:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,29]
+[15088:19732:1117/162701.095:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,29]
+[15088:19732:1117/162701.095:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,29]
+[15088:19732:1117/162701.096:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,32]
+[15088:19732:1117/162701.096:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,32]
+[15088:19732:1117/162701.096:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,32]
+[15088:19732:1117/162701.096:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,32]
+[15088:19732:1117/162701.354:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[15088:19732:1117/162701.354:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[11256:1100:1117/162717.641:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 15-0446E17EF9123083E96B6947421342D8 will be ignored
+[15088:7452:1117/162720.280:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,40]
+[15088:19732:1117/162720.293:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,40]
+[15088:19732:1117/162720.293:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,40]
+[15088:19732:1117/162720.293:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,40]
+[15088:19732:1117/162720.293:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,40]
+[15088:19732:1117/162720.295:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,43]
+[15088:19732:1117/162720.295:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,43]
+[15088:19732:1117/162720.296:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,43]
+[15088:19732:1117/162720.296:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,43]
+[15088:19732:1117/162720.647:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[15088:19732:1117/162720.647:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[11740:10872:1117/162739.797:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 17-D6AC956EA3D0D267BE52D1462B37827D will be ignored
+[15088:7452:1117/162741.814:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,50]
+[15088:19732:1117/162741.824:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,50]
+[15088:19732:1117/162741.824:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,50]
+[15088:19732:1117/162741.824:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,50]
+[15088:19732:1117/162741.824:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,50]
+[15088:19732:1117/162741.825:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,53]
+[15088:19732:1117/162741.826:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,53]
+[15088:19732:1117/162741.826:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,53]
+[15088:19732:1117/162741.826:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,53]
+[15088:19732:1117/162742.114:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[15088:19732:1117/162742.114:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[15088:19732:1117/163256.631:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[15088:19732:1117/201204.909:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
